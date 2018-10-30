@@ -8,14 +8,14 @@
 
 var prices = [33,26,99,120,12,45];
 var sum = 0;
-/*
+
 for(let i=0;i<6;i++){
   sum=sum+prices[i];
 }
 console.log("The sum is: ", sum);
-*/
 
-/*
+
+
 let j = 99;
 while(j > 1){
   console.log(j + " crows on the wall.", j + " crows.");
@@ -33,7 +33,7 @@ if(j==1){
   console.log(" There's no one left to defend Westeros now.")
 
 }
-*/
+
 
 
 for(let crow=99; crow >= 1; crow--){
